@@ -32,11 +32,11 @@ header {
     font-size: 1.6rem;
 }
 
-#h2, #volumeSpan, #showKeys, #keyBlack {
+h2, volumeSpan, showKeys, keyBlack {
     color: white;
  }
 
-#keyWhite {
+keyWhite {
     color: black;
  }
 
