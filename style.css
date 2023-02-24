@@ -12,17 +12,17 @@ body {
     justify-content: center;
     min-height: 100vh;
     padding: 0 10px;
-    background: #e3f2fd;
+    background: #C2003B;
 }
 
 .wrapper {
     border-radius: 20px;
     padding: 35px 40px;
-    background: #141414;
+    background: #FF004D;
 }
 
 .wrapper header {
-    color:#B2b2b2;
+    color:#FF004D;
     display: flex;
     align-items: center;
     justify-content: space-between;
