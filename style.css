@@ -94,7 +94,6 @@ header .column span {
     cursor: pointer;
     user-select: none;
     list-style: none;
-    color: #ff004d;
     position: relative;
     text-transform: uppercase;
 }
