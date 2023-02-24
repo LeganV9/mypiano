@@ -32,14 +32,6 @@ header {
     font-size: 1.6rem;
 }
 
-h2, volumeSpan, showKeys, keyBlack {
-    color: white;
- }
-
-keyWhite {
-    color: black;
- }
-
 header .column {
     display: flex;
     align-items: center;
